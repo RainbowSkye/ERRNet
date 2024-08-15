@@ -9,6 +9,18 @@
 
 
 ## Quick Start
+
+### data
+* 数据准备
+  ```python
+  dataset
+     |-train
+       |-gt
+       |-specular
+     |-val
+       |-gt
+       |-specular
+  ```
 ### train
 * 训练之前先在**train.py**文件中确定训练数据集的路径.
 

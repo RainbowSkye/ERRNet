@@ -1,0 +1,1 @@
+python test.py -r --name errnet01 --batchSize 2 --nThreads 32 --gpu_ids 2 --inet errnet
